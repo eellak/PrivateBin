@@ -1,0 +1,45 @@
+/**
+ * PrivateBin -- gov.gr-o- cssing
+ *
+ * CSS file only loaded when no JavaScript available.
+ *
+ * @link      https://eellak.gr/
+ * @copyright 
+ * @license   
+ * @version   1.0vk
+ */
+
+header { min-height: 75px; }
+header.container { padding-bottom: 0px; }
+
+#headerbre { background: #003476; border-bottom: 8px solid #046ec5; width: 100% ; margin-bottom: 20px;  min-height: 75px; }
+
+header h2 i { color: #fff; } 
+
+.logo h1, #mainnav ul li a { color: #fff; }
+
+body { font-family: Roboto,Helvetica,Arial,sans-serif; padding-bottom: 0px; } 
+
+#site-footer { background: #EBEBEB; border-top: 4px solid #0065B3;width: 100% ; padding: 10px 20px; }
+
+#footer-row { margin: auto; }
+#footer-row .wp-block-latest-posts  { font-size: 14px; }
+#footer-row .wp-block-latest-posts a, #site-footer a { color: #0081d6; }
+#site-footer a:hover { color: #003375; }
+#site-footer a:hover { color: #4c2b91; }
+
+#site-footer { font-size: 1.1875rem; }
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+  color: #aaa;
+  background-color: transparent;
+}
+
+.navbar-default { background-image: none; background: none; }
+
+.navbar-default .navbar-text,
+.navbar-default .navbar-nav > li > a,
+.navbar-nav > li > a:link,
+.navbar-default .navbar-nav > li > a:hover { color: #fff; }
+
+default .navbar-nav > li > a:hover { text-decoration: underline; }
